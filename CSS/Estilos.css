@@ -1,0 +1,51 @@
+
+
+header {
+    background-color: rgba(233, 115, 115, 0.744);
+    padding: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section.prueba {
+    background-color: rgba(238, 49, 49, 0.651);
+    border: 1px solid black;
+    padding-top: 1px;
+    padding-bottom: 50%;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.parrafo {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    text-align: justify;
+    margin: 10px;
+    margin-right: 100px;
+}
+
+#imagenes {
+    padding: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.textPulsaciones {
+    margin-right: 100px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
